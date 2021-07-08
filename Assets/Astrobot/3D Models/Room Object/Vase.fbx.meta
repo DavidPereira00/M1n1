@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: f1ff26fb0bb24ef4c8dfeea7de4178cd
+timeCreated: 1524447900
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bush_0
+    100002: Bush_1
+    100004: Bush_2
+    100006: Bush_3
+    100008: Bush_4
+    100010: Bush_5
+    100012: //RootNode
+    100014: Vase_Vase
+    400000: Bush_0
+    400002: Bush_1
+    400004: Bush_2
+    400006: Bush_3
+    400008: Bush_4
+    400010: Bush_5
+    400012: //RootNode
+    400014: Vase_Vase
+    2100000: Vase_MATERIAL
+    2100002: Brush_MATERIAL
+    2300000: Bush_0
+    2300002: Bush_1
+    2300004: Bush_2
+    2300006: Bush_3
+    2300008: Bush_4
+    2300010: Bush_5
+    2300012: Vase_Vase
+    3300000: Bush_0
+    3300002: Bush_1
+    3300004: Bush_2
+    3300006: Bush_3
+    3300008: Bush_4
+    3300010: Bush_5
+    3300012: Vase_Vase
+    4300000: Vase_Vase
+    4300002: Bush_0
+    4300004: Bush_1
+    4300006: Bush_2
+    4300008: Bush_3
+    4300010: Bush_4
+    4300012: Bush_5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brush_MATERIAL
+    second: {fileID: 2100000, guid: 58432093964eab546969a3429c671149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vase_MATERIAL
+    second: {fileID: 2100000, guid: eda3e9f96d76d524a89cc25028c17b40, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Chest
+    second: {fileID: 2800000, guid: f2f2c9d6f60c7174e923d4e0baa751c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HP3_bush01
+    second: {fileID: 2800000, guid: dd469df205fffef4b9215f7405202565, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 1e167c9e117d9334a9464ba5638ae046
+timeCreated: 1524448020
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Book
+    100002: Book1
+    100004: Book2
+    100006: Book3
+    100008: Book4
+    100010: Book5
+    100012: //RootNode
+    400000: Book
+    400002: Book1
+    400004: Book2
+    400006: Book3
+    400008: Book4
+    400010: Book5
+    400012: //RootNode
+    2100000: book_binding_binding_diffuse_tga1
+    2100002: book_cover_cover_diffuse_tga1
+    2100004: book_pages_pages_diffuse_tga1
+    2300000: Book
+    2300002: Book1
+    2300004: Book2
+    2300006: Book3
+    2300008: Book4
+    2300010: Book5
+    3300000: Book
+    3300002: Book1
+    3300004: Book2
+    3300006: Book3
+    3300008: Book4
+    3300010: Book5
+    4300000: Book
+    4300002: Book1
+    4300004: Book2
+    4300006: Book3
+    4300008: Book4
+    4300010: Book5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_binding_binding_diffuse_tga1
+    second: {fileID: 2100000, guid: c8ae266382276894d928ba1bf62b0f51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_cover_cover_diffuse_tga1
+    second: {fileID: 2100000, guid: 4c3ffbebcc575aa4cadf36cf188e79db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_pages_pages_diffuse_tga1
+    second: {fileID: 2100000, guid: b4a7c495e5bd1bf4ab4cbee8b07ca791, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: binding_diffuse
+    second: {fileID: 2800000, guid: 94f7aa74dc15f394b8f75c1a846d7f10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cover_diffuse
+    second: {fileID: 2800000, guid: 7bef290c1c2325b42b520dddc8cf37a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pages_diffuse
+    second: {fileID: 2800000, guid: e47c0526b3b3d7f4da47e648e4293287, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

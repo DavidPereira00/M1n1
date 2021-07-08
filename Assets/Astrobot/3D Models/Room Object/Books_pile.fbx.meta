@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: b6d4cd465d0fdd541ae6ccf3f2fb264a
+timeCreated: 1524448020
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Book10
+    100002: Book7
+    100004: Book8
+    100006: Book9
+    100008: //RootNode
+    400000: Book10
+    400002: Book7
+    400004: Book8
+    400006: Book9
+    400008: //RootNode
+    2100000: book_binding_binding_diffuse_tga1
+    2100002: book_cover_cover_diffuse_tga1
+    2100004: book_pages_pages_diffuse_tga1
+    2300000: Book10
+    2300002: Book7
+    2300004: Book8
+    2300006: Book9
+    3300000: Book10
+    3300002: Book7
+    3300004: Book8
+    3300006: Book9
+    4300000: Book7
+    4300002: Book8
+    4300004: Book9
+    4300006: Book10
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_binding_binding_diffuse_tga1
+    second: {fileID: 2100000, guid: ce4f70b2d5d09dd4eb21d42cef5dbdae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_cover_cover_diffuse_tga1
+    second: {fileID: 2100000, guid: f1db48041df42aa428dc309d920844b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_pages_pages_diffuse_tga1
+    second: {fileID: 2100000, guid: acfa44e0cbe5530408ab19cad9991898, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: binding_diffuse
+    second: {fileID: 2800000, guid: 0055bb7acb9847848a1a48fcebc43de5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cover_diffuse
+    second: {fileID: 2800000, guid: e9504e7626acb3b4292a5c62ab75a5c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pages_diffuse
+    second: {fileID: 2800000, guid: 86d75788d5257224fb340a3e18082aa9, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

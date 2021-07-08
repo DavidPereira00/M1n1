@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: ce45caa17cb88c24aa3128aadacec28f
+timeCreated: 1525391061
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Astrobot
+    100004: hand_1
+    100006: hand_1 1
+    100008: hand_2
+    100010: hand_2 1
+    100012: hand_3
+    100014: hand_3 1
+    100016: hand_4
+    100018: hand_4 1
+    100020: HEAD_joint
+    100022: L_arm_1
+    100024: L_arm_2
+    100026: L_arm_3
+    100028: L_arm_5
+    100030: L_foot_1
+    100032: L_foot_2
+    100034: L_foot_3
+    100036: L_hand_rt
+    100038: L_leg_1
+    100040: L_leg_2
+    100042: L_leg_3
+    100044: L_leg_4
+    100046: L_leg_5
+    100048: Mesh
+    100050: R_arm_1
+    100052: R_arm_2
+    100054: R_arm_3
+    100056: R_arm_5
+    100058: R_foot_1
+    100060: R_foot_2
+    100062: R_foot_3
+    100064: R_hand_rt
+    100066: R_leg_1
+    100068: R_leg_2
+    100070: R_leg_3
+    100072: R_leg_4
+    100074: R_leg_5
+    100076: ROOT
+    100078: shoulder_rt
+    100080: spine_1
+    100082: spine_3
+    400000: //RootNode
+    400002: Astrobot
+    400004: hand_1
+    400006: hand_1 1
+    400008: hand_2
+    400010: hand_2 1
+    400012: hand_3
+    400014: hand_3 1
+    400016: hand_4
+    400018: hand_4 1
+    400020: HEAD_joint
+    400022: L_arm_1
+    400024: L_arm_2
+    400026: L_arm_3
+    400028: L_arm_5
+    400030: L_foot_1
+    400032: L_foot_2
+    400034: L_foot_3
+    400036: L_hand_rt
+    400038: L_leg_1
+    400040: L_leg_2
+    400042: L_leg_3
+    400044: L_leg_4
+    400046: L_leg_5
+    400048: Mesh
+    400050: R_arm_1
+    400052: R_arm_2
+    400054: R_arm_3
+    400056: R_arm_5
+    400058: R_foot_1
+    400060: R_foot_2
+    400062: R_foot_3
+    400064: R_hand_rt
+    400066: R_leg_1
+    400068: R_leg_2
+    400070: R_leg_3
+    400072: R_leg_4
+    400074: R_leg_5
+    400076: ROOT
+    400078: shoulder_rt
+    400080: spine_1
+    400082: spine_3
+    2100000: Astrobot_material
+    4300000: Astrobot
+    9500000: //RootNode
+    13700000: Astrobot
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
